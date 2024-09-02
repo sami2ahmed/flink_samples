@@ -60,9 +60,6 @@ CASE
 END AS price_category
 FROM sample_data;
 ```
-4. 
-
-
 4. JOIN: Assume we have another Kafka topic say “sample_data_1” with the schema: 
 
 ### Schema:
